@@ -42,6 +42,7 @@ dvh / dvw
 - dvw : se réfère à la largeur du document
 
 ##meilleur pratique et unités à éviter
+
 situation : pour faire des responsives design
 - utiliser les unités de viewport pour ne pas corrompre le design
 - éviter les unités absolues comme les pixels
